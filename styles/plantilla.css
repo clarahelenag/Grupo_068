@@ -1,0 +1,18 @@
+h1{
+  color:blue;
+  text-align: center;
+}
+p{
+  color:purple;
+  text-decoration: underline;
+  text-align: center;
+  background-color: cyan;
+  font-size:16;
+}
+#parrafo1{
+  color:green;
+  text-align: left;
+  font-style: oblique;
+  font-size:10;
+  font-family: cursive
+}

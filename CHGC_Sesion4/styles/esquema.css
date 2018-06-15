@@ -1,0 +1,28 @@
+div {
+  margin:auto;
+  padding-top:20px;
+  padding-bottom:3%;
+  padding-left: 3%;
+  padding-right: 10%;
+  border: 2px solid black;
+}
+
+dv:nth-child(1) {
+  background-color:lightgrey;
+  font-size:50%;
+  height:80%;
+  width:80%;
+}
+
+text{
+  font-size: 20px;
+}
+
+article {
+  line-height: 1.5;
+  border: 1px solid blue;
+}
+
+[data*="text"] {
+  color: red;
+}
